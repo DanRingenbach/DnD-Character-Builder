@@ -19,6 +19,7 @@ Getting the update character mutation to work has been chellenging in the front 
 
 - [Usage](#usage)
 - [Credits](#credits)
+- [Screenshot](#screenshot)
 - [License](#license)
 
 
@@ -44,15 +45,19 @@ Getting the update character mutation to work has been chellenging in the front 
 #### QR Codes
 -  Deployed Application
 
-![Deployed QR Code]()
+![Deployed QR Code](/images/deployedqr.png "Deployed QR Code")
 
 - Repository
 
-![Repositiory QR Code]()
+![Repositiory QR Code](/images/repoqr.png "Repo QR Code")
 
 #### Walkthrough Video
 
 [Walkthrough](https://drive.google.com/file/d/1EmrPgJchC7L-COl1nmdPKk-NHLPlStwR/view)
+
+#### Screenshot 
+
+![Screenshot](/images/screenshot.png "Screenshot")
 
 
 ## License
